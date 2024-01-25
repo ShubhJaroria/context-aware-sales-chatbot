@@ -1,0 +1,43 @@
+[
+    {
+        "product_name": "Duradry Body Powder",
+        "price": "Not specified",
+        "features": [
+            "Provides dryness throughout the day",
+            "Pleasant scent",
+            "Effective moisture control"
+        ],
+        "customer_reviews": {
+            "average_rating": "4.8 out of 5 stars",
+            "total_reviews": "Not specified"
+        }
+    },
+    {
+        "product_name": "Duradry Body Spray",
+        "price": "From $8.80 (20% OFF from $11)",
+        "features": [
+            "Unscented body deodorant spray",
+            "Strong, natural odor neutralizer",
+            "Clear & Residue free",
+            "98% natural"
+        ],
+        "customer_reviews": {
+            "average_rating": "4.6 out of 5 stars",
+            "total_reviews": "Not specified"
+        }
+    },
+    {
+        "product_name": "Duradry Fresh Body System",
+        "price": "Not specified",
+        "features": [
+            "3-product kit for 360\u00b0 freshness",
+            "Prevents and neutralizes unwanted odors",
+            "Endorsed by dermatologists",
+            "Formulated with natural ingredients"
+        ],
+        "customer_reviews": {
+            "average_rating": "Not specified",
+            "total_reviews": "Not specified"
+        }
+    }
+]

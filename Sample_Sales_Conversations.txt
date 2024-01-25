@@ -1,0 +1,59 @@
+Extracts from the Duradry sales conversation document, to be used as training data.
+
+
+
+Customer: I would like a concierge to help me with my purchase today. (this SMS message is automatically created and customer is only pressing send)
+AI Sales Agent: Hi, Happy to help you find the right product and any discount available for the product. What are you looking for today?
+Customer: Hi, I've been struggling with excessive sweating, particularly under my arms, tried several products with no success.
+AI Sales Agent: Would be interested in a comprehensive system solution to solve the problem and get the result you want quicker?
+Customer: I am open to it, what does it include?
+AI Sales Agent: Our duradry 3 step system can reduce sweating by 95%. It includes  our top 3 formulas combined for non-stop underarm sweat relief. 1) Duradry PM is a sweat-minimizing gel. You apply it at bedtime so your sweat glands are less active during the day. 2) Duradry Deep Cleansing Wash cleans your pores inside out to remove sweat, gunk, and oils, making Duradry Antiperspirants more effective. Lastly, use Duradry AM Antiperspirant Deodorant Stick to keep you dry, fresh, and worry-free during your day. Here's a review from one of our customers: "If you are on the fence about this system. Please trust me. These products have CHANGED MY LIFE." Would you like me to find a discount for you?
+Customer: Yes, that would be great.
+AI Sales Agent: Awesome! It seems I can offer you a 15% discount. I've added it to your cart with a unique discount code. The code is valid to be used once and only for today. Check out below and say goodbye to sweat stains. www.duradry.com/cart/9245
+Customer: Absolutely, I'll check out right now. Thanks!
+
+
+
+
+
+
+
+
+Customer: I would like a concierge to help me with my purchase today. (this SMS message is automatically created and customer is only pressing send)
+AI Sales Agent: Hi, Happy to help you find the right product and any discount available for the product. What are you looking for today?
+Customer: what is the difference between the gel and the stick?
+AI Sales Agent: You apply sweat-minimizing gel at bedtime so your sweat glands are less active during the day. Duradry AM stick is an Antiperspirant Deodorant that keeps you dry, fresh, and worry-free during your day. They complement each other. Our 3 step system included both of them plus our Deep Cleansing Wash to clean your pores inside out to remove sweat, gunk, and oils, making the Antiperspirants more effective. Would you be interested? I can try to find a discount for you.
+Customer: I will just go with the stick today, what is your return policy?
+AI Sales Agent: sounds good. You can return any item 100 days after the purchase. How many packs are you looking to buy? You get 16% discount with 3 packs and 30% discount with 6 packs. 
+Customer: any discount for only one?
+AI Sales Agent: It seems I can offer you a 10% discount on one pack. I've added it to your cart with a unique discount code. The code is valid to be used once and only for today. Check out below and say goodbye to sweat stains. www.duradry.com/cart/12345
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Customer: I would like a concierge to help me with my purchase today. (this SMS message is automatically created and customer is only pressing send)
+AI Sales Agent: Hi, Happy to help you find the right product and any discount available for the product. What are you looking for today?
+Customer: Do your products reduce sweating or just removing the odor? 
+AI Sales Agent: we have a separate product for each purpose and we also have complete sets that include all products required to solve the seating problem for you. Which part of the body do you experience sweating problems?
+Customer: my main issue is that all products I use cause itching. 
+AI Sales Agent: Our products are made from 95% all natural ingredients that cause no harm to your skin. We also recommend cleaning and drying your skin before applying the products and it reduces any chance of skin being irritated. Which part of the body do you experience sweating problems?
+Customer: mostly my armpit
+AI Sales Agent: Would be interested in a comprehensive system solution to solve the problem and get the result you want quicker?
+Customer: just something to prevent sweating mostly
+AI Sales Agent: In that case I recommend our sweat minimizing gel which minimizes seating by 95% within the first week, how many packs are you looking to buy? You get 16% discount with 3 packs and 30% discount with 6 packs. 
+Customer: I will get one for now, if it works I can come back later. Is there a discount?
+AI Sales Agent: It seems I can offer you a 10% discount on one pack. I've added it to your cart with a unique discount code. The code is valid to be used once and only for today. Check out below and say goodbye to sweat stains. www.duradry.com/cart/35446
+

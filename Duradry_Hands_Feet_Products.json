@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "name": "Duradry Feet System",
+            "price": "From $38.95",
+            "description": "The comfort of dry & fresh feet all day.",
+            "rating": "4.9 out of 5 stars",
+            "reviews": 122
+        },
+        {
+            "name": "Duradry Antiperspirant Wipes for Hands & Feet",
+            "price": "From $17.95",
+            "description": "Clinical-strength antiperspirant wipes for your body, hands, and feet. Reduces sweating by up to 90%",
+            "rating": "4.9 out of 5 stars",
+            "reviews": 216
+        },
+        {
+            "name": "Duradry Body Powder",
+            "price": "From $15.95",
+            "description": "The strongest moisture and odor protection with a luxurious velvety feel.",
+            "rating": "4.8 out of 5 stars",
+            "reviews": 173
+        },
+        {
+            "name": "Duradry Deodorizing Foot Soak",
+            "price": "From $15.00",
+            "description": "Deep cleans, deodorizes, and exfoliates feet. Powered by Mineral-rich Dead Sea Salt, Apple Cider, MSM, Tea Tree Oil + 6 essential oils.",
+            "rating": "4.9 out of 5 stars",
+            "reviews": 143
+        },
+        {
+            "name": "Duradry Wash Wipes",
+            "price": "From $12.00",
+            "description": "On-the-go rinse-less shower. Deodorize and clean your skin midday.",
+            "rating": "4.9 out of 5 stars",
+            "reviews": 222
+        },
+        {
+            "name": "Duradry Body Spray",
+            "price": "From $11.00",
+            "description": "Aluminum-free body deodorant spray. Neutralizes odors anywhere on your body.",
+            "rating": "4.8 out of 5 stars",
+            "reviews": 434
+        },
+        {
+            "name": "Duradry Wash",
+            "price": "From $10.00",
+            "description": "Powerful body wash to deep-clean and deodorize your skin.",
+            "rating": "4.8 out of 5 stars",
+            "reviews": 876
+        },
+        {
+            "name": "Duradry Microfiber Gym Towel",
+            "price": "From $8.00",
+            "description": "The softest gym towel you'll ever use.",
+            "rating": "4.8 out of 5 stars",
+            "reviews": 5
+        }
+    ]
+}

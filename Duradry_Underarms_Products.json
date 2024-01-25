@@ -1,0 +1,53 @@
+{
+    "products": [
+        {
+            "name": "Duradry 3-Step System",
+            "price": "From $41.95",
+            "description": "Award-winning starter kit to control excessive underarm sweating within a week. Three products work together to keep you ultra dry and fresh.",
+            "rating": "4.8 out of 5 stars",
+            "reviews": 914
+        },
+        {
+            "name": "Duradry PM Sweat Minimizing Gel",
+            "price": "From $18.00",
+            "description": "Our most potent anti-sweat formula. Reduces sweating by up to 95% within a week.",
+            "rating": "4.7 out of 5 stars",
+            "reviews": 857
+        },
+        {
+            "name": "Duradry AM Antiperspirant Stick",
+            "price": "From $13.95",
+            "description": "Clinical-strength antiperspirant to keep your underarms dry and odor-free. Talc and Silicone-free.",
+            "rating": "4.6 out of 5 stars",
+            "reviews": 1181
+        },
+        {
+            "name": "Duradry Wash Wipes",
+            "price": "From $12.00",
+            "description": "On-the-go rinse-less shower. Deodorize and clean your skin midday.",
+            "rating": "4.9 out of 5 stars",
+            "reviews": 222
+        },
+        {
+            "name": "Duradry Body Spray",
+            "price": "From $11.00",
+            "description": "Aluminum-free body deodorant spray. Neutralizes odors anywhere on your body.",
+            "rating": "4.8 out of 5 stars",
+            "reviews": 434
+        },
+        {
+            "name": "Duradry Wash",
+            "price": "From $10.00",
+            "description": "Powerful body wash to deep-clean and deodorize your skin.",
+            "rating": "4.8 out of 5 stars",
+            "reviews": 876
+        },
+        {
+            "name": "Duradry Microfiber Gym Towel",
+            "price": "From $8.00",
+            "description": "The softest gym towel you'll ever use.",
+            "rating": "4.8 out of 5 stars",
+            "reviews": 5
+        }
+    ]
+}
